@@ -1,0 +1,108 @@
+Weather Forecast
+
+450 PM MST Thu Jan 19 2017
+
+.SYNOPSIS...An active pattern will continue across the region, with
+a series of weather systems crossing the area through the middle
+of next week.
+
+&&
+
+.SHORT TERM (THROUGH 00Z MONDAY)...An upper trough continues to
+approach the area this afternoon with the bulk of its energy still
+expected to track across southern Utah and northern Arizona tonight.
+Meanwhile, a moist airmass and weak embedded disturbances will
+continue to maintain areas of generally light precipitation across
+the area.
+
+Cold advection northwesterly flow has developed across northern Utah
+which has helped to bring periods of enhanced snow to the Wasatch
+Front and adjacent mountains. However, with temperatures hovering
+near freezing, snow accumulations have been minimal in many valleys
+and on treated surfaces. Snow may tend to accumulate with more ease
+near/after sunset, but drier air spreading from the northwest is
+expected to bring a gradual end to the snow.
+
+Models still indicate precipitation focusing across west-central
+Utah through this evening along an area of 700mb convergence and/or
+weak circulation. As such, the best valley accumulations tonight
+looks to occur in this area. Otherwise, expect snow to also continue
+to fill in across southwest Utah with the approaching trough, but
+valley accumulations will generally remain light.
+
+Have cancelled the Winter Weather Advisory for UTZ005 due to the
+aforementioned drying trend across the northwest, otherwise have
+left remaining Advisories in place.
+
+Precipitation will taper off tomorrow morning through early
+afternoon as the trough exits the area and a weak shortwave ridge
+builds in. However, this drying trend will not last as the active
+weather pattern will continue with the approach of the next trough.
+This trough will start to bring moisture into southwest Utah
+tomorrow afternoon as southwesterly flow increases across the area.
+With the bulk of the energy diving even farther south into Arizona
+than tonight`s trough, the higher snow accumulations will remain
+over southern Utah. However, weak embedded disturbances will cross
+northern Utah so accumulating snow will be possible across the north
+as well. Some zones, especially the central and southern mountains
+and higher valleys of southwest Utah, may see enough snow to warrant
+a winter weather highlight, but will wait until after the current
+storm starts to wind down to address this. However, with a slightly
+warmer airmass in southwest flow during the initial portion of the
+storm, rain may mix with snow in some valleys through around midday
+Saturday before colder air spreads into the area in northwest flow
+behind the trough axis.
+
+Precipitation will wind down again Saturday night as a shortwave
+ridge builds into the area once again. Increasing southwesterly flow
+ahead of the next storm will then spread moisture back into the area
+beginning on Sunday.
+
+.LONG TERM (After 00Z Monday)...The large trough continues to push
+across the western CONUS on Sunday night, with a strong and moist
+southwest flow over Utah and southwest Wyoming. Have increased the
+forecast southerly winds and warmed temperatures for Sunday night
+into Monday morning, as the southerly gradient increases
+significantly ahead of the bulk of the trough. These southerly winds
+may have to be pushed even higher on future shifts.
+
+Have also kept POPs fairly high through Sunday night and Monday,
+with widespread precipitation likely under good jet dynamics and
+increasing mid-level cold advection. Locations favored in southwest
+flow will do best until Monday morning, then low level winds will
+switch to the northwest as a decent low level baroclinic zone pushes
+across the CWA through 00Z Tuesday.
+
+After 00Z Tuesday, the jet and the best dynamic forcing shift south
+and east of the area, which could shut down precipitation in many
+locations. However, some snowfall will persist through Monday night
+and perhaps into Tuesday in continued cold advection and
+northwesterly flow in the lower levels. Locations where precip could
+linger include the Wasatch Mountains and some of the northern Utah
+valleys.
+
+This is a fairly cold storm system once the trough axis swings
+through fully, with 700mb temperatures forecast to drop as low as
+-14C to -16C through much of Tuesday and Wednesday, and perhaps
+lingering into Thursday. Have generally cooled temperatures through
+this day 5-7 period, and they may need to be lowered even further as
+confidence grows, especially if an overnight period can be
+identified that will actually clear clouds out of the area
+efficiently. This could be Wednesday night or Thursday night, as a
+strengthening ridge builds over the western CONUS at the end of the
+week and heading into next weekend.
+
+&&
+
+.AVIATION...IFR conditions in snow will likely continue at the SLC
+terminal through 01Z, with a 30 percent chance that showers continue
+to linger in the 01-04Z period. A chance of showers continues
+overnight, but any showers after 04Z should be relatively brief.
+Winds should continue to be light and variable through at least 06Z,
+with speeds generally remaining 7 knots or less.
+
+&&
+
+.SLC WATCHES/WARNINGS/ADVISORIES...
+UT...Winter Weather Advisory until 5 AM MST Friday for UTZ007-008-
+010-     015-517-518.
