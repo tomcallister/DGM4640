@@ -1,1 +1,9 @@
 Weather Forecast
+for Salt Lake City, UT
+
+Detailed Forecast
+TonightSnow likely, mainly before 11pm. Cloudy, with a low around 26. Southwest wind 3 to 5 mph. Chance of precipitation is 70%. Total nighttime snow accumulation of less than a half inch possible.
+FridayA 20 percent chance of snow before 11am. Mostly cloudy, with a high near 38. Light south southwest wind becoming south 8 to 13 mph in the afternoon.
+Friday NightSnow likely, mainly after 11pm. Cloudy, with a low around 28. South wind around 9 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible.
+SaturdaySnow likely, mainly before 11am. Cloudy, with a high near 38. South wind 6 to 10 mph becoming northwest in the morning. Chance of precipitation is 70%. New snow accumulation of around an inch possible.
+Saturday NightA 20 percent chance of snow. Mostly cloudy, with a low around 27. Northwest wind 7 to 9 mph becoming south southwest in the evening.
