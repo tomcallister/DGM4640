@@ -1,0 +1,33 @@
+Salt Lake City, UT 84121
+
+HOURLY 10 DAYS
+TONIGHT
+SNOW
+LOW
+32°
+90%
+SAT
+HIGH
+35°
+90%
+SAT NIGHT
+LOW
+26°
+20%
+SUN
+HIGH
+38°
+80%
+SUN NIGHT
+LOW
+35°
+80%
+Cloudy with snow showers this evening and steady snow likely after midnight. Low 32F. Winds light and variable. Chance of snow 90%. 1 to 3 inches of snow expected.
+WIND
+E 5 mph
+HUMIDITY
+85%
+UV INDEX
+0 of 10
+SUN
+ 7:46 am  5:30 pm
